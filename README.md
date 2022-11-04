@@ -1,0 +1,1 @@
+# altschool-golang-exam-project
